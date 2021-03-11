@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    margin: 0;
+    font-family: Verdana;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 50px;
+    color: white;
+    font-weight: normal !important; 
+}
+
+content a {
+    color: aquamarine;
+    font-size: 16px;
+    margin: auto 0;
+    width: 100%;
+    display: block;
+}
+
+content h1 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+content h2 {
+    color: gray;
+    font-size: 21px;
+}
+
+#phone {
+    display: block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
